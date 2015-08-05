@@ -14,8 +14,5 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
-//= jquery.stellar.min.js
-// = smoothscroll.js
-// = retina.min.js
-// = main.js
-// = jquery.countdown.min.js
+//= require jquery-1.10.2.js
+//= require bootstrap.min.js

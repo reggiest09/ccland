@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   root'pages#land'
-  match '/contact', to: 'pages#contact', via: 'post'
+  
   match '/subscribe', to: 'pages#subscribe', via: 'post'
   
 
